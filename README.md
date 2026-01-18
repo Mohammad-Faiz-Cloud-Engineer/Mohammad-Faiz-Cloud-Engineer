@@ -1,4 +1,4 @@
-# 🏄‍♂️ Mohammad Faiz — Cloud Engineer  
+# Mohammad Faiz — Cloud Engineer  
 *Developer • Builder • Entrepreneur*
 
 Cloud Engineer focused on designing, automating, and operating scalable cloud systems.  
@@ -6,7 +6,7 @@ I build reliable infrastructure, optimize performance, and ship systems that are
 
 ---
 
-## 🚀 What I'm Working On
+## What I'm Working On
 
 - Designing cloud-native architectures for high availability and scalability  
 - Automating infrastructure using Infrastructure as Code and CI/CD pipelines  
@@ -16,26 +16,26 @@ I build reliable infrastructure, optimize performance, and ship systems that are
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 **Cloud Platforms**  
-☁️ AWS • Azure • Google Cloud  
+AWS • Azure • Google Cloud  
 
 **Infrastructure & DevOps**  
-⚙️ Terraform • Docker • Kubernetes • Helm  
-🔁 GitHub Actions • CI/CD Pipelines  
+Terraform • Docker • Kubernetes • Helm  
+GitHub Actions • CI/CD Pipelines  
 
 **Backend & Systems**  
-🧠 Linux • Nginx • Node.js • Python  
-🗄️ PostgreSQL • Redis  
+Linux • Nginx • Node.js • Python  
+PostgreSQL • Redis  
 
 **Monitoring & Security**  
-📊 Prometheus • Grafana • CloudWatch  
-🔐 IAM • Secrets Management • Secure Networking  
+Prometheus • Grafana • CloudWatch  
+IAM • Secrets Management • Secure Networking  
 
 ---
 
-## 🧩 Featured Projects
+## Featured Projects
 
 ### 🔹 Cloud Infrastructure Automation
 Production-ready infrastructure using Terraform with modular design, security best practices, and automated deployments.
@@ -48,7 +48,7 @@ End-to-end CI/CD pipelines with automated testing, security checks, and zero-dow
 
 ---
 
-## 📺 Latest YouTube Videos
+## Latest YouTube Videos
 
 <!-- YouTube Cards via GitHub Actions -->
 <!-- YOUTUBE:START -->
@@ -57,18 +57,19 @@ End-to-end CI/CD pipelines with automated testing, security checks, and zero-dow
 
 ---
 
-## 🌍 Connect With Me
+## Connect With Me
 
-[![YouTube](https://www.youtube.com/@TechieInsect)(#)
-[![LinkedIn](We Will Add it Later](#)
-[![GitHub](https://github.com/Mohammad-Faiz-Cloud-Engineer](#)
-[![Instagram](https://www.instagram.com/levitronxfaiz/](#)
-[![Twitter/X](https://x.com/LevitronXFaiz?t=Qlbtii-qcGSvdHVQPaP0Cw&s=09](#)
-[![PeerList](https://peerlist.io/mohammadfaiz](#)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](https://www.youtube.com/@TechieInsect)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Coming%20Soon-blue?logo=linkedin)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/Mohammad-Faiz-Cloud-Engineer)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?logo=instagram)](https://www.instagram.com/levitronxfaiz/)
+[![Twitter/X](https://img.shields.io/badge/X-Follow-black?logo=x)](https://x.com/LevitronXFaiz?t=Qlbtii-qcGSvdHVQPaP0Cw&s=09)
+[![Peerlist](https://img.shields.io/badge/Peerlist-Profile-0A66C2)](https://peerlist.io/mohammadfaiz)
+
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohammad-Faiz-Cloud-Engineer&show_icons=true&theme=transparent)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Faiz-Cloud-Engineer&theme=transparent)
