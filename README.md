@@ -31,7 +31,7 @@ const engineer = {
   role: "Cloud Engineer",
   focus: ["Infrastructure Automation", "Cloud Architecture", "DevOps"],
   philosophy: "Build clean. Automate everything. Think long term.",
-  location: "Airoli, Maharashtra, India",
+  location: "Lucknow, Uttar Pradesh, India",
   currentlyLearning: ["Service Mesh", "Platform Engineering", "SRE Practices"],
   askMeAbout: ["AWS", "Terraform", "Kubernetes", "CI/CD", "System Design"]
 };
